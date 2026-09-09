@@ -11,3 +11,7 @@ He took the first step, unaware of where the story would lead.
 Vasanth followed the old map from the notebook into the forest, hoping it would lead to treasure and not just a very long walk.
 At sunset, he found a mysterious bridge guarded by a squirrel who looked surprisingly serious.
 He crossed carefully, wondering if the squirrel accepted snacks as a toll .
+
+## Chapter 3: An Unexpected Discovery
+
+Instead of a hidden trail, Vasanth stumbled upon an ancient stone well glowing with faint blue runes. As he leaned over the edge, the reflection in the water showed the map in his notebook shifting to reveal hidden coordinates. A gentle breeze whispered secrets through the trees, urging him forward.
