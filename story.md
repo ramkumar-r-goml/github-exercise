@@ -18,3 +18,8 @@ Instead of a hidden trail, Vasanth stumbled upon an ancient stone well glowing w
 ## Chapter 3: The Turning Point
 
 Beyond the bridge, the forest opened into a clearing illuminated by glowing crystals embedded in stone arches. Vasanth noticed two distinct pathways winding into the mist, each marked with an ancient cipher. Sensing that choosing one would forever alter his journey, he paused to inspect the markings carefully.
+
+## Chapter 4: The Hidden Path
+
+Vasanth chose the left path and slowly walked through the thick mist.
+After a while, he found a small cave hidden behind the trees. Inside the cave, he noticed a mysterious box glowing softly in the dark.
