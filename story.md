@@ -15,6 +15,7 @@ He crossed carefully, wondering if the squirrel accepted snacks as a toll .
 ## Chapter 3: An Unexpected Discovery
 
 Instead of a hidden trail, Vasanth stumbled upon an ancient stone well glowing with faint blue runes. As he leaned over the edge, the reflection in the water showed the map in his notebook shifting to reveal hidden coordinates. A gentle breeze whispered secrets through the trees, urging him forward.
+
 ## Chapter 3: The Turning Point
 
 Beyond the bridge, the forest opened into a clearing illuminated by glowing crystals embedded in stone arches. Vasanth noticed two distinct pathways winding into the mist, each marked with an ancient cipher. Sensing that choosing one would forever alter his journey, he paused to inspect the markings carefully.
@@ -23,3 +24,11 @@ Beyond the bridge, the forest opened into a clearing illuminated by glowing crys
 
 Vasanth chose the left path and slowly walked through the thick mist.
 After a while, he found a small cave hidden behind the trees. Inside the cave, he noticed a mysterious box glowing softly in the dark.
+
+## Chapter 4: The Finale 
+
+Vasanth carefully move towards the box.
+The box opens slowly when vasanth approached it. The box glows out of dark with white and gold light.
+A fairy comes out of the box.
+it suddenly devours vasanth as a whole.
+the story ends.
