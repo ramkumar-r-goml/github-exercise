@@ -77,6 +77,26 @@ content.
 List every command you ran, in order. Explain in your own words: squash merge vs.
 merge commit — when would you use each in a real team?
 
+git clone = clone the repo with all the updates in all the branches
+
+git branch -a = it list all the branch that are in out local server
+
+git checkout main = it change the head pointing to the main branch
+
+git branch -r --merged = it shows all the branches that are merged to main
+
+git log --oneline --graph --all = it shows all the commits made in one line and in a grahical representation
+
+git push origin --delete branch names = it push delete branch 
+
+git fetch -p = it fetch all the changes made in the origin
+
+git ls-remote --tags  = list tags which are in the remote
+
+git push origin --delete v1.1.0 = deleting a tag in remote
+
+git tag -d v1.1.0 = delete tag locally
+
 ---
 
 ## Facilitator check (Mrithip, last step)
