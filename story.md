@@ -23,3 +23,5 @@ Beyond the bridge, the forest opened into a clearing illuminated by glowing crys
 
 Vasanth chose the left path and slowly walked through the thick mist.
 After a while, he found a small cave hidden behind the trees. Inside the cave, he noticed a mysterious box glowing softly in the dark.
+
+## Chapter 4: The Finale
