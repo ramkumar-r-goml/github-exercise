@@ -30,3 +30,5 @@ After a while, he found a small cave hidden behind the trees. Inside the cave, h
 Vasanth carefully move towards the box.
 The box opens slowly when vasanth approached it. The box glows out of dark with white and gold light.
 A fairy comes out of the box.
+it suddenly devours vasanth as a whole.
+the story ends.
