@@ -37,3 +37,15 @@ An 8-person, sequential, hands-on exercise to practice real Git & GitHub workflo
 ## Repository
 
 Hosted at: `https://github.com/ramkumar-r-goml/github-exercise`
+
+## Retrospective
+
+1) learned about clone, status, add, commit, push, log.
+2) learned about branch, checkout -b, committing on a branch, push -u origin <branch>, opening a Pull Request on GitHub.
+3) learned about reviewing a diff on GitHub, leaving PR comments, approving a PR, merging a PR (and the difference between merge strategies), deleting a merged branch.
+4) learned about how conflicting edits happen, branch, editing the same lines another branch will also touch.
+5) leanred about fetch, merge, reading conflict markers (<<<<<<<, =======, >>>>>>>), resolving conflicts, git add on resolved files, completing a merge commit.
+6) leanred about git rebase -i, squashing commits, rewording commit messages, rebasing a feature branch onto updated main.
+7) learned about git log (with options), git diff, git blame, git tag, annotated tags, pushing tags, writing a CHANGELOG from history.
+8) learned about squash merge (and how it differs from a regular merge commit), reviewing an entire repo's history end-to-end, closing out a collaborative exercise.
+
